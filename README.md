@@ -11,7 +11,7 @@ Each image is displayed for 2 seconds and then hidden before the next one is sho
 
 ## ✨ Demo
 
-You can view a live demo of this project [here](https://d-vokic.github.io/WhereAmI-geolocation-app/).
+You can view a live demo of this project [here](https://d-vokic.github.io/Image-Loader-Demo/).
 
 ---
 
