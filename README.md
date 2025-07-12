@@ -1,4 +1,4 @@
-# 🌍 Image Loader Demo
+# Image Loader Demo
 
 This is a simple JavaScript demo that loads two images using Promises.  
 Each image is displayed for 2 seconds and then hidden before the next one is shown.
@@ -9,7 +9,7 @@ Each image is displayed for 2 seconds and then hidden before the next one is sho
 
 ## _Figure 1: Application in Action_
 
-## ✨ Demo
+## Demo
 
 You can view a live demo of this project [here](https://d-vokic.github.io/Image-Loader-Demo/).
 
@@ -27,7 +27,7 @@ You can view a live demo of this project [here](https://d-vokic.github.io/Image-
   - [Author](#author)
   - [License](#license)
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **HTML** & **CSS** – Page structure and styling
 - **Vanilla JavaScript (ES6+)** – Core logic and DOM manipulation
@@ -39,7 +39,7 @@ You can view a live demo of this project [here](https://d-vokic.github.io/Image-
 
 ---
 
-## 🌐 How to Run
+## How to Run
 
 1. Clone or download this repository.
 2. Place two images in the `img/` folder:
@@ -49,7 +49,7 @@ You can view a live demo of this project [here](https://d-vokic.github.io/Image-
 
 ---
 
-## 📦 Features
+## Features
 
 - Dynamic image loading
 - Error handling for missing images
@@ -57,7 +57,7 @@ You can view a live demo of this project [here](https://d-vokic.github.io/Image-
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 where-am-i/
@@ -74,7 +74,7 @@ where-am-i/
 └── README.md         # Project documentation
 ```
 
-## 👨‍💻 Author
+## Author
 
 #### [Dusko Vokic](https://duskovokic.com)
 
